@@ -45,7 +45,7 @@ public class Program {
 		}
 		
 		catch(Exception e) {
-			System.out.println("Invalid date format");
+			System.out.println("Not enough balance");
 		}
 				
 		
